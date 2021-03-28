@@ -1,0 +1,1 @@
+../../../VRLego/VRLego.uproject  /Game/VirtualRealityBP/Maps/MotionControllerMap -Messaging -SessionId=5E1B2BF5440DA85493C59BBFC8DD67E6 -SessionOwner="unori" -SessionName="Launch On Device" -iterative
