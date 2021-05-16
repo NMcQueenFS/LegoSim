@@ -88,6 +88,10 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "SQLiteCore",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
